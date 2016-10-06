@@ -36,7 +36,7 @@ widthIncrease : function() {
     this.width ++;
 };
 
-widthDecrease :function() {
+widthDecrease : function() {
     this.width --;
 };
 
