@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //See readme for challenge instructions
 
 var github = require('./github.js');
@@ -9,3 +10,6 @@ usernames.forEach(function(user) {
         
     })
 })
+=======
+//See readme for challenge instructions
+>>>>>>> upstream/master

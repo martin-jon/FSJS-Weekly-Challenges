@@ -1,5 +1,6 @@
 //See readme for challenge instructions
 
+<<<<<<< HEAD
 return new Promise( function(resolve, reject) {
     var options = {
         host: 'api.github.com',
@@ -10,6 +11,8 @@ return new Promise( function(resolve, reject) {
     }
 })
 
+=======
+>>>>>>> upstream/master
 /*
  * Note about github api: requires User-Agent header to be set. This can be done
  * in Node by passing an options object (rather than a simple url string) as the 
